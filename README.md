@@ -1,0 +1,7 @@
+Trong thời đại chuyển đổi số mạnh mẽ, dữ liệu được ví như “dầu mỏ mới” – một tài nguyên chiến lược giúp tổ chức, doanh nghiệp ra quyết định chính xác, xây dựng chiến lược dài hạn và thấu hiểu khách hàng sâu sắc hơn. Đặc biệt, sự bùng nổ của thương mại điện tử đã làm gia tăng đáng kể lượng dữ liệu tạo ra hằng ngày, mang lại cơ hội lớn trong khai thác và phân tích.
+
+Tiki.vn – một trong những sàn thương mại điện tử hàng đầu tại Việt Nam – không chỉ là nền tảng mua sắm trực tuyến mà còn là kho dữ liệu khổng lồ, phản ánh toàn diện thị trường tiêu dùng hiện đại. Mỗi sản phẩm đều có các thông tin chi tiết như giá, thương hiệu, đánh giá người dùng, lượt mua,… Những dữ liệu này, nếu được xử lý và phân tích đúng cách, sẽ cung cấp cái nhìn rõ nét về xu hướng tiêu dùng, hành vi khách hàng và mức độ cạnh tranh giữa các thương hiệu.
+
+Từ nhận thức đó, nhóm chúng em thực hiện đề tài: “Thu thập, xử lý và lập bảng thống kê dữ liệu bằng Power BI dựa trên thông số sản phẩm từ Tiki.vn”. Đề tài mang tính thực tiễn cao, giúp nhóm tiếp cận quy trình phân tích dữ liệu đầy đủ: từ thu thập dữ liệu web động, làm sạch bằng Python đến trực quan hóa bằng Power BI.
+
+Thông qua đề tài, nhóm không chỉ nâng cao kiến thức chuyên ngành mà còn rèn luyện kỹ năng sử dụng công cụ hiện đại, chuẩn bị tốt cho công việc trong lĩnh vực Khoa học dữ liệu, Phân tích kinh doanh và Kinh tế số. Đây là trải nghiệm thực hành quý giá, mô phỏng quy trình xử lý dữ liệu trong thực tế, giúp người dùng cuối dễ dàng tiếp cận và đưa ra quyết định dựa trên dữ liệu trực quan, chính xác và sinh động.
